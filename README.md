@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h1 align="center">Salaam<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm yahyasdadmv</h1>
+<h1 align="center">Salaam<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm Ashraaf</h1>.
 <h3 align="center">A web developer based in the Maldives.</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadithmv&label=Profile%20views&color=0e75b6&style=flat" alt="hadithmv" /> </p>-->
