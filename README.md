@@ -3,17 +3,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on Translation
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Hadith
+- 💬 Ask me about ...
 - 📫 How to reach me: https://telegram.me/ashraafmv
 
 -->
 
 <h1 align="center">Salaam<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm Ashraaf</h1>
-<h3 align="center">A web developer based in the Maldives.</h3>
+<h3 align="center">A software developer based in the Maldives.</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadithmv&label=Profile%20views&color=0e75b6&style=flat" alt="hadithmv" /> </p>-->
 
