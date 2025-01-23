@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 -->
 
 ### 👋 Salaam, I'm Ashraaf.
-- 💻 A software developer based in the Maldives.
+💻 A software developer based in the Maldives.
 
 -----
 
 - 🔭 I’m currently working on [Hadithmv]([https://github.com/c9s/bbgo](https://github.com/hadithmv/hadithmv.github.io)), a Dhivehi platform for the translations of the Sunnah.  
 - 🗣 I speak English, Dhivehi and Arabic.
 - 📫 You can reach me via [Telegram](https://telegram.me/ashraafmv)
+
+-----
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadithmv&label=Profile%20views&color=0e75b6&style=flat" alt="hadithmv" /> </p>-->
 
@@ -39,7 +41,7 @@ Here are some ideas to get you started:
 <!--
 https://github.com/inttter/md-badges
 -->
-![hadithmv's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadithmv&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![hadithmv's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadithmv&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
 
 -----
 
