@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 -----
 
-- 🔭 I’m currently working on [Hadithmv]([https://github.com/c9s/bbgo](https://github.com/hadithmv/hadithmv.github.io)), a Dhivehi platform for the translations of the Sunnah.  
+- 🔭 I’m currently working on [Hadithmv](https://github.com/hadithmv/hadithmv.github.io)), a Dhivehi platform for the translations of the Sunnah.  
 - 🗣 I speak English, Dhivehi and Arabic.
 - 📫 You can reach me via [Telegram](https://telegram.me/ashraafmv)
 
